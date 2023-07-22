@@ -6,7 +6,7 @@
 * [x] [Introdução.](https://github.com/Devsgeeknerd/cla-int-her-log-ori-obj-com-bas)
 * [x] [Superclasses e Subclasses.](https://github.com/Devsgeeknerd/cla-sup-sub-her-log-ori-obj-com-bas)
 * [x] [Quando Devo, de Fato, Utilizar a Herança?](https://github.com/Devsgeeknerd/cla-qua-dev-fat-uti-her-her-log-ori-obj-com-bas)
-* [ ] [Por Que a Herança Constitui um Assunto Tao Polêmico?](https://github.com/Devsgeeknerd/cla-por-que-her-con-ass-tao-pol-her-log-ori-obj-com-bas) &#128679;
+* [x] [Por Que a Herança Constitui um Assunto Tao Polêmico?](https://github.com/Devsgeeknerd/cla-por-que-her-con-ass-tao-pol-her-log-ori-obj-com-bas)
 * [ ] [O Atributo de Visibilidade *“Protected”*.](https://github.com/Devsgeeknerd/cla-atr-vis-pro-her-log-ori-obj-com-bas) &#128679;
 * [ ] [Herança e UML.](https://github.com/Devsgeeknerd/cla-her-uml-her-log-ori-obj-com-bas) &#128679;
 * [ ] [Herança Simples ou Herança Múltipla?](https://github.com/Devsgeeknerd/cla-her-sim-her-mul-her-log-ori-obj-com-bas) &#128679;
