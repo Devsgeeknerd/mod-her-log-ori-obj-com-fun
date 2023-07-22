@@ -16,7 +16,7 @@
 * [x] [Continuando Com o Encapsulamento.](https://github.com/Devsgeeknerd/cla-con-com-enc-her-log-ori-obj-com-bas)
 * [x] [Atributos e Métodos Protegidos?](https://github.com/Devsgeeknerd/cla-atr-met-pro-her-log-ori-obj-com-bas)
 * [x] [Evitando a Sobrescrita de Métodos.](https://github.com/Devsgeeknerd/cla-evi-sob-met-her-log-ori-obj-com-bas)
-* [ ] [Mais Discussões Sobre a Sobrescrita de Métodos.](https://github.com/Devsgeeknerd/cla-mai-dis-sob-sob-met-her-log-ori-obj-com-bas) &#128679;
+* [x] [Mais Discussões Sobre a Sobrescrita de Métodos.](https://github.com/Devsgeeknerd/cla-mai-dis-sob-sob-met-her-log-ori-obj-com-bas)
 
 <!-- Informações -->
 ## &#8505; Informações
