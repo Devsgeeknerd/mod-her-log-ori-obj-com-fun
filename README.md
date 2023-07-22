@@ -3,7 +3,7 @@
 
 ***Conteúdo do Módulo:***
 
-* [ ] [Introdução.](https://github.com/Devsgeeknerd/cla-int-her-log-ori-obj-com-bas) &#128679;
+* [x] [Introdução.](https://github.com/Devsgeeknerd/cla-int-her-log-ori-obj-com-bas)
 * [ ] [Superclasses e Subclasses.](https://github.com/Devsgeeknerd/cla-sup-sub-her-log-ori-obj-com-bas) &#128679;
 * [ ] [Quando Devo, de Fato, Utilizar a Herança?](https://github.com/Devsgeeknerd/cla-qua-dev-fat-uti-her-her-log-ori-obj-com-bas) &#128679;
 * [ ] [Por Que a Herança Constitui um Assunto Tao Polêmico?](https://github.com/Devsgeeknerd/cla-por-que-her-con-ass-tao-pol-her-log-ori-obj-com-bas) &#128679;
