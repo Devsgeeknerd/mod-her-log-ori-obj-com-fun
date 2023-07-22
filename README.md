@@ -10,7 +10,7 @@
 * [x] [O Atributo de Visibilidade *“Protected”*.](https://github.com/Devsgeeknerd/cla-atr-vis-pro-her-log-ori-obj-com-bas)
 * [x] [Herança e UML.](https://github.com/Devsgeeknerd/cla-her-uml-her-log-ori-obj-com-bas)
 * [x] [Herança Simples ou Herança Múltipla?](https://github.com/Devsgeeknerd/cla-her-sim-her-mul-her-log-ori-obj-com-bas)
-* [ ] [Começando Com a Herança.](https://github.com/Devsgeeknerd/cla-com-com-her-her-log-ori-obj-com-bas) &#128679;
+* [x] [Começando Com a Herança.](https://github.com/Devsgeeknerd/cla-com-com-her-her-log-ori-obj-com-bas)
 * [ ] [Continuando Com a Herança.](https://github.com/Devsgeeknerd/cla-con-com-her-her-log-ori-obj-com-bas) &#128679;
 * [ ] [Métodos Abstratos.](https://github.com/Devsgeeknerd/cla-met-abs-her-log-ori-obj-com-bas) &#128679;
 * [ ] [Continuando Com o Encapsulamento.](https://github.com/Devsgeeknerd/cla-con-com-enc-her-log-ori-obj-com-bas) &#128679;
