@@ -12,7 +12,7 @@
 * [x] [Herança Simples ou Herança Múltipla?](https://github.com/Devsgeeknerd/cla-her-sim-her-mul-her-log-ori-obj-com-bas)
 * [x] [Começando Com a Herança.](https://github.com/Devsgeeknerd/cla-com-com-her-her-log-ori-obj-com-bas)
 * [x] [Continuando Com a Herança.](https://github.com/Devsgeeknerd/cla-con-com-her-her-log-ori-obj-com-bas)
-* [ ] [Métodos Abstratos.](https://github.com/Devsgeeknerd/cla-met-abs-her-log-ori-obj-com-bas) &#128679;
+* [x] [Métodos Abstratos.](https://github.com/Devsgeeknerd/cla-met-abs-her-log-ori-obj-com-bas)
 * [ ] [Continuando Com o Encapsulamento.](https://github.com/Devsgeeknerd/cla-con-com-enc-her-log-ori-obj-com-bas) &#128679;
 * [ ] [Atributos e Métodos Protegidos?](https://github.com/Devsgeeknerd/cla-atr-met-pro-her-log-ori-obj-com-bas) &#128679;
 * [ ] [Evitando a Sobrescrita de Métodos.](https://github.com/Devsgeeknerd/cla-evi-sob-met-her-log-ori-obj-com-bas) &#128679;
