@@ -25,6 +25,7 @@ Este módulo explora como a herança permite a criação de novas classes basead
   * Diferenciar entre sobrecarga e sobrescrita de métodos.
 
 * **Visibilidade e Acesso a Membros da Classe:**
+  * Utilizar modificadores de acesso (public, private, protected) no contexto da herança;
 
 <!-- Informações -->
 ## &#8505; Informações
