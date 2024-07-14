@@ -15,6 +15,7 @@ Este módulo explora como a herança permite a criação de novas classes basead
   * Reconhecer os benefícios e possíveis desvantagens do uso de herança.
 
 * **Implementação da Herança:**
+  * Criar classes base (superclasses) e classes derivadas (subclasses);
 
 <!-- Informações -->
 ## &#8505; Informações
