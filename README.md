@@ -3,6 +3,10 @@
 
 ***Conteúdo do Módulo:***
 
+O módulo "Herança" é uma parte essencial do curso de programação orientada a objetos, projetado para proporcionar aos alunos uma compreensão profunda e prática do conceito de herança na programação orientada a objetos.
+
+Este módulo explora como a herança permite a criação de novas classes baseadas em classes existentes, promovendo a reutilização do código e a criação de hierarquias de classes mais eficientes e organizadas.
+
 <!-- Informações -->
 ## &#8505; Informações
 
