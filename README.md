@@ -19,6 +19,8 @@ Este módulo explora como a herança permite a criação de novas classes basead
   * Utilizar a palavra-chave extends (ou equivalente) para implementar herança;
   * Demonstrar como as subclasses herdam métodos e atributos das superclasses.
 
+* **Polimorfismo e Sobrescrita de Métodos:**
+
 <!-- Informações -->
 ## &#8505; Informações
 
