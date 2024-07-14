@@ -20,6 +20,7 @@ Este módulo explora como a herança permite a criação de novas classes basead
   * Demonstrar como as subclasses herdam métodos e atributos das superclasses.
 
 * **Polimorfismo e Sobrescrita de Métodos:**
+  * Explicar o conceito de polimorfismo e como ele se relaciona com a herança;
 
 <!-- Informações -->
 ## &#8505; Informações
