@@ -14,6 +14,8 @@ Este módulo explora como a herança permite a criação de novas classes basead
   * Identificar as diferenças entre herança simples e múltipla;
   * Reconhecer os benefícios e possíveis desvantagens do uso de herança.
 
+* **Implementação da Herança:**
+
 <!-- Informações -->
 ## &#8505; Informações
 
