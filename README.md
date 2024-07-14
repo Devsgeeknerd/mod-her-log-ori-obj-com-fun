@@ -9,6 +9,9 @@ Este módulo explora como a herança permite a criação de novas classes basead
 
 ## Objetivos de Aprendizagem
 
+* **Compreender os Fundamentos da Herança:**
+  * Definir herança e seu papel na programão orientada a objetos;
+
 <!-- Informações -->
 ## &#8505; Informações
 
