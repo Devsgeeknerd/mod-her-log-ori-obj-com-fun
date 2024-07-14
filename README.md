@@ -24,6 +24,8 @@ Este módulo explora como a herança permite a criação de novas classes basead
   * Implementar a sobrescrita de métodos em subclasses;
   * Diferenciar entre sobrecarga e sobrescrita de métodos.
 
+* **Visibilidade e Acesso a Membros da Classe:**
+
 <!-- Informações -->
 ## &#8505; Informações
 
