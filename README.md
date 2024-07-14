@@ -1,6 +1,8 @@
 <!-- Título -->
 # Herança
 
+***Conteúdo do Módulo:***
+
 <!-- Informações -->
 ## &#8505; Informações
 
