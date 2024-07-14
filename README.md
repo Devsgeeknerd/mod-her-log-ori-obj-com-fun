@@ -12,6 +12,7 @@ Este módulo explora como a herança permite a criação de novas classes basead
 * **Compreender os Fundamentos da Herança:**
   * Definir herança e seu papel na programão orientada a objetos;
   * Identificar as diferenças entre herança simples e múltipla;
+  * Reconhecer os benefícios e possíveis desvantagens do uso de herança.
 
 <!-- Informações -->
 ## &#8505; Informações
