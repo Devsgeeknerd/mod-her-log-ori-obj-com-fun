@@ -52,6 +52,7 @@ Este módulo explora como a herança permite a criação de novas classes basead
   * Herança e encapsulamento.
 
 * **Classes Abstratas e Interfaces:**
+  * Quando e como usar classes abstratas;
 
 <!-- Informações -->
 ## &#8505; Informações
