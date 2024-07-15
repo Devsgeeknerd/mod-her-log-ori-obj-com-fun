@@ -41,6 +41,7 @@ Este módulo explora como a herança permite a criação de novas classes basead
 * **Implementação de Herança:**
   * Criando uma hierarquia de classes;
   * Uso de construtores em classes derivadas;
+  * Superclasses e subclasses: uso de `super`.
 
 <!-- Informações -->
 ## &#8505; Informações
