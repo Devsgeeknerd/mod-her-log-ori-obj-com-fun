@@ -7,16 +7,16 @@
 * [ ] [Superclasses e Subclasses.](https://github.com/Devsgeeknerd/cla-sup-sub-her-ori-obj-com-fun) &#128679;
 * [ ] [Quando Devo, de Fato, Utilizar a Herança?](https://github.com/Devsgeeknerd/cla-qua-dev-fat-uti-her-her-log-ori-obj-com-fun) &#128679;
 * [ ] [Por Que a Herança Constitui um Assunto Tão Polêmico.](https://github.com/Devsgeeknerd/cla-por-que-her-con-ass-tao-pol-her-log-ori-obj-com-fun) &#128679;
-* [ ] []() &#128679;
-* [ ] []() &#128679;
-* [ ] []() &#128679;
-* [ ] []() &#128679;
-* [ ] []() &#128679;
-* [ ] []() &#128679;
-* [ ] []() &#128679;
-* [ ] []() &#128679;
-* [ ] []() &#128679;
-* [ ] []() &#128679;
+* [ ] [O Atributo de Visibilidade *“Protected”*.](https://github.com/Devsgeeknerd/cla-atr-vis-pro-her-log-ori-obj-com-fun) &#128679;
+* [ ] [Herança e UML.](https://github.com/Devsgeeknerd/cla-her-uml-her-log-ori-obj-com-fun) &#128679;
+* [ ] [Herança Simples ou Herança Múltipla?](https://github.com/Devsgeeknerd/cla-her-sim-her-mul-her-log-ori-obj-com-fun) &#128679;
+* [ ] [Começando Com a Herança.](https://github.com/Devsgeeknerd/cla-com-com-her-her-log-ori-obj-com-fun) &#128679;
+* [ ] [Continuando Com a Herança.](https://github.com/Devsgeeknerd/cla-con-com-her-her-log-ori-obj-com-fun) &#128679;
+* [ ] [Métodos Abstratos.](https://github.com/Devsgeeknerd/cla-met-abs-her-log-ori-obj-com-fun) &#128679;
+* [ ] [Continuando Com o Encapsulamento.](https://github.com/Devsgeeknerd/cla-con-com-enc-her-log-ori-obj-com-bas) &#128679;
+* [ ] [Atributos e Métodos Protegidos?](https://github.com/Devsgeeknerd/cla-atr-met-pro-her-log-ori-obj-com-fun) &#128679;
+* [ ] [Evitando a Sobrescrita de Métodos.](https://github.com/Devsgeeknerd/cla-evi-sob-met-her-log-ori-obj-com-fun) &#128679;
+* [ ] [Mais Discussões Sobre a Sobrescrita de Métodos.](https://github.com/Devsgeeknerd/cla-mai-dis-sob-sob-met-her-log-ori-obj-com-fun) &#128679;
 
 O módulo "Herança" é uma parte essencial do curso de programação orientada a objetos, projetado para proporcionar aos alunos uma compreensão profunda e prática do conceito de herança na programação orientada a objetos.
 
