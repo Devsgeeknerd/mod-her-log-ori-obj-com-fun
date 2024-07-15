@@ -30,6 +30,7 @@ Este módulo explora como a herança permite a criação de novas classes basead
 
 * **Classes Abstratas e Interfaces:**
   * Definir e utilizar classes abstratas;
+  * Implementar interfaces e entender sua importância na herança e no polimorfismo.
 
 <!-- Informações -->
 ## &#8505; Informações
