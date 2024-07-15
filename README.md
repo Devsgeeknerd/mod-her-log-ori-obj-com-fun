@@ -39,6 +39,7 @@ Este módulo explora como a herança permite a criação de novas classes basead
   * Exemplos práticos de herança em diferentes linguagens de programação.
 
 * **Implementação de Herança:**
+  * Criando uma hierarquia de classes;
 
 <!-- Informações -->
 ## &#8505; Informações
