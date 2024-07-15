@@ -5,7 +5,7 @@
 
 * [ ] [Introdução.](https://github.com/Devsgeeknerd/cla-int-her-log-ori-obj-com-fun) &#128679;
 * [ ] [Superclasses e Subclasses.](https://github.com/Devsgeeknerd/cla-sup-sub-her-ori-obj-com-fun) &#128679;
-* [ ] []() &#128679;
+* [ ] [Quando Devo, de Fato, Utilizar a Herança?](https://github.com/Devsgeeknerd/cla-qua-dev-fat-uti-her-her-log-ori-obj-com-fun) &#128679;
 * [ ] []() &#128679;
 * [ ] []() &#128679;
 * [ ] []() &#128679;
