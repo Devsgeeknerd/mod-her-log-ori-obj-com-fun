@@ -44,6 +44,7 @@ Este módulo explora como a herança permite a criação de novas classes basead
   * Superclasses e subclasses: uso de `super`.
 
 * **Polimorfismo:**
+  * Conceito de polimorfismo;
 
 <!-- Informações -->
 ## &#8505; Informações
