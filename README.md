@@ -47,6 +47,8 @@ Este módulo explora como a herança permite a criação de novas classes basead
   * Conceito de polimorfismo;
   * Sobrescrita de métodos e palavra-chave `override`.
 
+* **Visibilidade e Acesso:**
+
 <!-- Informações -->
 ## &#8505; Informações
 
