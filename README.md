@@ -34,7 +34,8 @@ Este módulo explora como a herança permite a criação de novas classes basead
 
 ## Conteúdo Programático
 
-* **Introdução à Herança:
+* **Introdução à Herança:**
+  * Conceitos básicos e terminologia;
 
 <!-- Informações -->
 ## &#8505; Informações
