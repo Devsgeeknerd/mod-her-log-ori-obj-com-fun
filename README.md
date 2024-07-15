@@ -3,6 +3,21 @@
 
 ***Conteúdo do Módulo:***
 
+* [ ] [Introdução.](https://github.com/Devsgeeknerd/cla-int-her-log-ori-obj-com-fun) &#128679;
+* [ ] [Superclasses e Subclasses.](https://github.com/Devsgeeknerd/cla-sup-sub-her-ori-obj-com-fun) &#128679;
+* [ ] []() &#128679;
+* [ ] []() &#128679;
+* [ ] []() &#128679;
+* [ ] []() &#128679;
+* [ ] []() &#128679;
+* [ ] []() &#128679;
+* [ ] []() &#128679;
+* [ ] []() &#128679;
+* [ ] []() &#128679;
+* [ ] []() &#128679;
+* [ ] []() &#128679;
+* [ ] []() &#128679;
+
 O módulo "Herança" é uma parte essencial do curso de programação orientada a objetos, projetado para proporcionar aos alunos uma compreensão profunda e prática do conceito de herança na programação orientada a objetos.
 
 Este módulo explora como a herança permite a criação de novas classes baseadas em classes existentes, promovendo a reutilização do código e a criação de hierarquias de classes mais eficientes e organizadas.
@@ -48,7 +63,7 @@ Este módulo explora como a herança permite a criação de novas classes basead
   * Sobrescrita de métodos e palavra-chave `override`.
 
 * **Visibilidade e Acesso:**
-  * Modificadores de  acesso e sua aplicação;
+  * Modificadores de acesso e sua aplicação;
   * Herança e encapsulamento.
 
 * **Classes Abstratas e Interfaces:**
