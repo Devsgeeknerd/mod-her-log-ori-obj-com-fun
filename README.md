@@ -48,6 +48,7 @@ Este módulo explora como a herança permite a criação de novas classes basead
   * Sobrescrita de métodos e palavra-chave `override`.
 
 * **Visibilidade e Acesso:**
+  * Modificadores de  acesso e sua aplicação;
 
 <!-- Informações -->
 ## &#8505; Informações
