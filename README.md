@@ -29,6 +29,7 @@ Este módulo explora como a herança permite a criação de novas classes basead
   * Entender o acesso a membros da classe através da herança.
 
 * **Classes Abstratas e Interfaces:**
+  * Definir e utilizar classes abstratas;
 
 <!-- Informações -->
 ## &#8505; Informações
