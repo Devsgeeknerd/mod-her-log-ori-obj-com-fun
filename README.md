@@ -49,6 +49,7 @@ Este módulo explora como a herança permite a criação de novas classes basead
 
 * **Visibilidade e Acesso:**
   * Modificadores de  acesso e sua aplicação;
+  * Herança e encapsulamento.
 
 <!-- Informações -->
 ## &#8505; Informações
